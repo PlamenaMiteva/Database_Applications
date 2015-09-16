@@ -1,0 +1,5 @@
+c:\users\plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\NewsModels\bin\Debug\NewsModels.dll
+c:\users\plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\NewsModels\bin\Debug\NewsModels.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\NewsModels\obj\Debug\NewsModels.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\NewsModels\obj\Debug\NewsModels.dll
+c:\users\plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\NewsModels\obj\Debug\NewsModels.pdb

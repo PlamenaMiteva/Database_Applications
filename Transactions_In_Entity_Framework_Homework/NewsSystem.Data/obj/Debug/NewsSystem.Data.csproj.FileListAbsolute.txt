@@ -1,0 +1,12 @@
+C:\Users\Plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\NewsSystem.Data\bin\Debug\NewsSystem.Data.dll.config
+C:\Users\Plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\NewsSystem.Data\bin\Debug\NewsSystem.Data.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\NewsSystem.Data\bin\Debug\NewsSystem.Data.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\NewsSystem.Data\bin\Debug\EntityFramework.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\NewsSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\NewsSystem.Data\bin\Debug\NewsModels.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\NewsSystem.Data\bin\Debug\NewsModels.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\NewsSystem.Data\bin\Debug\EntityFramework.xml
+C:\Users\Plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\NewsSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\NewsSystem.Data\obj\Debug\NewsSystem.Data.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\NewsSystem.Data\obj\Debug\NewsSystem.Data.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\NewsSystem.Data\obj\Debug\NewsSystem.Data.pdb

@@ -1,0 +1,16 @@
+c:\users\plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\02. Concurrent Updates\bin\Debug\_02.Concurrent_Updates.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\02. Concurrent Updates\obj\Debug\02. Concurrent Updates.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\02. Concurrent Updates\bin\Debug\_02.Concurrent_Updates.exe
+c:\users\plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\02. Concurrent Updates\bin\Debug\_02.Concurrent_Updates.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\02. Concurrent Updates\bin\Debug\EntityFramework.dll
+c:\users\plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\02. Concurrent Updates\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\02. Concurrent Updates\bin\Debug\NewsModels.dll
+c:\users\plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\02. Concurrent Updates\bin\Debug\NewsSystemConsoleClient.exe
+c:\users\plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\02. Concurrent Updates\bin\Debug\NewsModels.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\02. Concurrent Updates\bin\Debug\NewsSystemConsoleClient.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\02. Concurrent Updates\bin\Debug\EntityFramework.xml
+c:\users\plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\02. Concurrent Updates\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\02. Concurrent Updates\obj\Debug\_02.Concurrent_Updates.exe
+c:\users\plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\02. Concurrent Updates\obj\Debug\_02.Concurrent_Updates.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\02. Concurrent Updates\bin\Debug\NewsSystem.Data.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\02. Concurrent Updates\bin\Debug\NewsSystem.Data.pdb

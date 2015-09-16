@@ -1,0 +1,16 @@
+C:\Users\Plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\05-06. ATM\bin\Debug\_05_06.ATM.exe.config
+C:\Users\Plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\05-06. ATM\bin\Debug\_05_06.ATM.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\05-06. ATM\bin\Debug\_05_06.ATM.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\05-06. ATM\bin\Debug\EntityFramework.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\05-06. ATM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\05-06. ATM\bin\Debug\NewsModels.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\05-06. ATM\bin\Debug\NewsSystem.Data.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\05-06. ATM\bin\Debug\NewsSystemConsoleClient.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\05-06. ATM\bin\Debug\NewsModels.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\05-06. ATM\bin\Debug\NewsSystem.Data.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\05-06. ATM\bin\Debug\NewsSystemConsoleClient.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\05-06. ATM\bin\Debug\EntityFramework.xml
+C:\Users\Plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\05-06. ATM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\05-06. ATM\obj\Debug\05-06. ATM.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\05-06. ATM\obj\Debug\_05_06.ATM.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\05-06. ATM\obj\Debug\_05_06.ATM.pdb

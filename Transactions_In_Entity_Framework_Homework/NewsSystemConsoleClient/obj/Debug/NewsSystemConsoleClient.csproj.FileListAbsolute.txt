@@ -1,0 +1,14 @@
+c:\users\plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\NewsSystemConsoleClient\bin\Debug\NewsSystemConsoleClient.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\NewsSystemConsoleClient\bin\Debug\NewsSystemConsoleClient.exe
+c:\users\plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\NewsSystemConsoleClient\bin\Debug\NewsSystemConsoleClient.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\NewsSystemConsoleClient\bin\Debug\EntityFramework.dll
+c:\users\plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\NewsSystemConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\NewsSystemConsoleClient\bin\Debug\NewsModels.dll
+c:\users\plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\NewsSystemConsoleClient\bin\Debug\NewsModels.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\NewsSystemConsoleClient\bin\Debug\EntityFramework.xml
+c:\users\plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\NewsSystemConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\NewsSystemConsoleClient\obj\Debug\NewsSystemConsoleClient.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\NewsSystemConsoleClient\obj\Debug\NewsSystemConsoleClient.exe
+c:\users\plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\NewsSystemConsoleClient\obj\Debug\NewsSystemConsoleClient.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\NewsSystemConsoleClient\bin\Debug\NewsSystem.Data.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\EntityFrameworkHomework\NewsSystemConsoleClient\bin\Debug\NewsSystem.Data.pdb
