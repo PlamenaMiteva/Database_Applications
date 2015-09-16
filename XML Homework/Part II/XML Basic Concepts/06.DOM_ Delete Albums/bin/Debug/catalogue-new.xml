@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalogue:albums name="Music Catalogue" xmlns:catalogue="https://gist.github.com/jasonbaldridge/2597611">
+  <catalogue:album type="album">
+    <catalogue:name>OK Computer</catalogue:name>
+    <catalogue:artist>Radiohead</catalogue:artist>
+    <catalogue:year>1997</catalogue:year>
+    <catalogue:producer>Parlophone</catalogue:producer>
+    <catalogue:price>18.29</catalogue:price>
+    <songs>
+      <song>
+        <song-title>Airbag</song-title>
+        <song-duration>4:44</song-duration>
+      </song>
+      <song>
+        <song-title>Paranoid Android</song-title>
+        <song-duration>6:23</song-duration>
+      </song>
+      <song>
+        <song-title>Subterranean Homesick Alien</song-title>
+        <song-duration>4:27</song-duration>
+      </song>
+      <song>
+        <song-title>Exit Music (For a Film)</song-title>
+        <song-duration>4:24</song-duration>
+      </song>
+      <song>
+        <song-title>Let Down</song-title>
+        <song-duration>4:59</song-duration>
+      </song>
+      <song>
+        <song-title>Karma Police</song-title>
+        <song-duration>4:21</song-duration>
+      </song>
+      <song>
+        <song-title>Fitter Happier</song-title>
+        <song-duration>1:57</song-duration>
+      </song>
+      <song>
+        <song-title>Electioneering</song-title>
+        <song-duration>3:50</song-duration>
+      </song>
+      <song>
+        <song-title>Climbing Up the Walls</song-title>
+        <song-duration>4:45</song-duration>
+      </song>
+      <song>
+        <song-title>No Surprises</song-title>
+        <song-duration>3:48</song-duration>
+      </song>
+      <song>
+        <song-title>Lucky</song-title>
+        <song-duration>4:19</song-duration>
+      </song>
+      <song>
+        <song-title>The Tourist</song-title>
+        <song-duration>5:24</song-duration>
+      </song>
+    </songs>
+  </catalogue:album>
+</catalogue:albums>

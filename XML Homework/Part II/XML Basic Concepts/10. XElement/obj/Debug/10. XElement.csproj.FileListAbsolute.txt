@@ -1,0 +1,6 @@
+c:\users\plamena\documents\visual studio 2013\Projects\XML Basic Concepts\10. XElement\bin\Debug\_10.XElement.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\XML Basic Concepts\10. XElement\obj\Debug\10. XElement.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\XML Basic Concepts\10. XElement\bin\Debug\_10.XElement.exe
+c:\users\plamena\documents\visual studio 2013\Projects\XML Basic Concepts\10. XElement\bin\Debug\_10.XElement.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\XML Basic Concepts\10. XElement\obj\Debug\_10.XElement.exe
+c:\users\plamena\documents\visual studio 2013\Projects\XML Basic Concepts\10. XElement\obj\Debug\_10.XElement.pdb

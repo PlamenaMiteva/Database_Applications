@@ -1,0 +1,5 @@
+c:\users\plamena\documents\visual studio 2013\Projects\XML Basic Concepts\08. Old Albums_LINQ\bin\Debug\_08.Old_Albums_LINQ.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\XML Basic Concepts\08. Old Albums_LINQ\bin\Debug\_08.Old_Albums_LINQ.exe
+c:\users\plamena\documents\visual studio 2013\Projects\XML Basic Concepts\08. Old Albums_LINQ\bin\Debug\_08.Old_Albums_LINQ.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\XML Basic Concepts\08. Old Albums_LINQ\obj\Debug\_08.Old_Albums_LINQ.exe
+c:\users\plamena\documents\visual studio 2013\Projects\XML Basic Concepts\08. Old Albums_LINQ\obj\Debug\_08.Old_Albums_LINQ.pdb

@@ -1,0 +1,5 @@
+c:\users\plamena\documents\visual studio 2013\Projects\XML Basic Concepts\03. Extract All Artists Alphabetically\bin\Debug\_03.Extract_All_Artists_Alphabetically.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\XML Basic Concepts\03. Extract All Artists Alphabetically\bin\Debug\_03.Extract_All_Artists_Alphabetically.exe
+c:\users\plamena\documents\visual studio 2013\Projects\XML Basic Concepts\03. Extract All Artists Alphabetically\bin\Debug\_03.Extract_All_Artists_Alphabetically.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\XML Basic Concepts\03. Extract All Artists Alphabetically\obj\Debug\_03.Extract_All_Artists_Alphabetically.exe
+c:\users\plamena\documents\visual studio 2013\Projects\XML Basic Concepts\03. Extract All Artists Alphabetically\obj\Debug\_03.Extract_All_Artists_Alphabetically.pdb

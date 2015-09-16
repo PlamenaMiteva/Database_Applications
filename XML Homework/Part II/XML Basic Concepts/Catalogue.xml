@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catalogue:albums name="Music Catalogue" xmlns:catalogue="https://gist.github.com/jasonbaldridge/2597611">
+	<catalogue:album type="album">
+		<catalogue:name>The King of Limbs</catalogue:name>
+		<catalogue:artist>Radiohead</catalogue:artist>
+		<catalogue:year>2011</catalogue:year>
+		<catalogue:producer>Nigel Godrich</catalogue:producer>
+		<catalogue:price>20.56</catalogue:price>
+		<songs>
+			<song>
+				<song-title>Bloom</song-title>
+				<song-duration>5:15</song-duration>
+			</song>
+			<song>
+				<song-title>Morning Mr Magpie</song-title>
+				<song-duration>4:41</song-duration>
+			</song>
+			<song>
+				<song-title>Little by Little</song-title>
+				<song-duration>4:27</song-duration>
+			</song>
+			<song>
+				<song-title>Feral</song-title>
+				<song-duration>3:13</song-duration>
+			</song>
+			<song>
+				<song-title>Lotus Flower</song-title>
+				<song-duration>5:01</song-duration>
+			</song>
+			<song>
+				<song-title>Codex</song-title>
+				<song-duration>4:47</song-duration>
+			</song>
+			<song>
+				<song-title>Give Up the Ghost</song-title>
+				<song-duration>4:50</song-duration>
+			</song>
+			<song>
+				<song-title>Separator</song-title>
+				<song-duration>5:20</song-duration>
+			</song>
+		</songs>
+	</catalogue:album>
+  <catalogue:album type="album">
+    <catalogue:name>OK Computer</catalogue:name>
+    <catalogue:artist>Radiohead</catalogue:artist>
+    <catalogue:year>1997</catalogue:year>
+    <catalogue:producer>Parlophone</catalogue:producer>
+    <catalogue:price>18.29</catalogue:price>
+    <songs>
+      <song>
+        <song-title>Airbag</song-title>
+        <song-duration>4:44</song-duration>
+      </song>
+      <song>
+        <song-title>Paranoid Android</song-title>
+        <song-duration>6:23</song-duration>
+      </song>
+      <song>
+        <song-title>Subterranean Homesick Alien</song-title>
+        <song-duration>4:27</song-duration>
+      </song>
+      <song>
+        <song-title>Exit Music (For a Film)</song-title>
+        <song-duration>4:24</song-duration>
+      </song>
+      <song>
+        <song-title>Let Down</song-title>
+        <song-duration>4:59</song-duration>
+      </song>
+      <song>
+        <song-title>Karma Police</song-title>
+        <song-duration>4:21</song-duration>
+      </song>
+      <song>
+        <song-title>Fitter Happier</song-title>
+        <song-duration>1:57</song-duration>
+      </song>
+      <song>
+        <song-title>Electioneering</song-title>
+        <song-duration>3:50</song-duration>
+      </song>
+      <song>
+        <song-title>Climbing Up the Walls</song-title>
+        <song-duration>4:45</song-duration>
+      </song>
+      <song>
+        <song-title>No Surprises</song-title>
+        <song-duration>3:48</song-duration>
+      </song>
+      <song>
+        <song-title>Lucky</song-title>
+        <song-duration>4:19</song-duration>
+      </song>
+      <song>
+        <song-title>The Tourist</song-title>
+        <song-duration>5:24</song-duration>
+      </song>
+      </songs>
+  </catalogue:album>
+  <catalogue:album type="album">
+    <catalogue:name>Dummy</catalogue:name>
+    <catalogue:artist>Portishead</catalogue:artist>
+    <catalogue:year>1994</catalogue:year>
+    <catalogue:producer>Go</catalogue:producer>
+    <catalogue:price>23.19</catalogue:price>
+    <songs>
+      <song>
+        <song-title>Mysterons</song-title>
+        <song-duration>5:02</song-duration>
+      </song>
+      <song>
+        <song-title>Sour Times</song-title>
+        <song-duration>4:11</song-duration>
+      </song>
+      <song>
+        <song-title>Strangers</song-title>
+        <song-duration>3:55</song-duration>
+      </song>
+      <song>
+        <song-title>It Could Be Sweet</song-title>
+        <song-duration>4:16</song-duration>
+      </song>
+      <song>
+        <song-title>Wandering Star</song-title>
+        <song-duration>4:51</song-duration>
+      </song>
+      <song>
+        <song-title>It's a Fire</song-title>
+        <song-duration>3:49</song-duration>
+      </song>
+      <song>
+        <song-title>Numb</song-title>
+        <song-duration>3:54</song-duration>
+      </song>
+      <song>
+        <song-title>Roads</song-title>
+        <song-duration>5:02</song-duration>
+      </song>
+      <song>
+        <song-title>Pedestal</song-title>
+        <song-duration>3:39</song-duration>
+      </song>
+      <song>
+        <song-title>Biscuit</song-title>
+        <song-duration>5:01</song-duration>
+      </song>
+      <song>
+        <song-title>Glory Box</song-title>
+        <song-duration>5:06</song-duration>
+      </song>
+    </songs>
+  </catalogue:album>
+</catalogue:albums>

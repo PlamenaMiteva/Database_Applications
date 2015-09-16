@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<students xmlns="urn:students">
+  <student>
+    <name>Ivan Petrov</name>
+    <gender>Male</gender>
+    <birth-date>1998-09-27</birth-date>
+    <phone-number>00359888560284</phone-number>
+    <email>i.petrov@abv.bg</email>
+    <university>Software University</university>
+    <speciality>Back-End</speciality>
+    <faculty-number>6376453275834</faculty-number>
+    <exams culture="en-US">
+      <exam>
+      <exam-name>C# Basics</exam-name>
+      <exam-date>2015-02-17</exam-date>
+      <exam-grade>5.78</exam-grade>
+    </exam>
+    <exam>
+      <exam-name>Java Basics</exam-name>
+      <exam-date>2015-03-23</exam-date>
+      <exam-grade>5.12</exam-grade>
+    </exam>
+    <exam>
+      <exam-name>JavaScript Basics</exam-name>
+      <exam-date>2015-04-12</exam-date>
+      <exam-grade>4.92</exam-grade>
+    </exam>
+    </exams>
+    <endorsements>
+      <endorsement>
+        <author-name></author-name>
+        <author-email></author-email>
+        <date></date>
+        <text></text>
+      </endorsement>
+          </endorsements>
+  </student> 
+  <student>
+    <name>Maria Ignatova</name>
+    <gender>Female</gender>
+    <birth-date>1987-04-17</birth-date>
+    <phone-number>00359888804701</phone-number>
+    <email>mignatova@abv.bg</email>
+    <university>Sofia University</university>
+    <speciality>History</speciality>
+    <faculty-number>6735743574638</faculty-number>
+    <exams culture="en-US">
+      <exam>
+      <exam-name>History Basics</exam-name>
+      <exam-date>2015-01-07</exam-date>
+      <exam-grade>5.23</exam-grade>
+    </exam>
+    <exam>
+      <exam-name>English History</exam-name>
+      <exam-date>2015-03-14</exam-date>
+      <exam-grade>4.67</exam-grade>
+    </exam>
+    <exam>
+      <exam-name>French History</exam-name>
+      <exam-date>2015-04-29</exam-date>
+      <exam-grade>3.70</exam-grade>
+    </exam>
+    </exams>
+    <endorsements>
+      <endorsement>
+        <author-name></author-name>
+        <author-email></author-email>
+        <date></date>
+        <text></text>
+      </endorsement>
+          </endorsements>
+  </student>
+  <student>
+    <name>Milen Bakalov</name>
+    <gender>Male</gender>
+    <birth-date>1990-07-03</birth-date>
+    <phone-number></phone-number>
+    <email>milen@abv.bg</email>
+    <university>Software University</university>
+    <speciality>Front-End</speciality>
+    <faculty-number>654352432657483</faculty-number>
+    <exams culture="en-US">
+      <exam>
+      <exam-name>C# Basics</exam-name>
+      <exam-date>2015-02-17</exam-date>
+      <exam-grade>5.00</exam-grade>
+    </exam>
+    <exam>
+      <exam-name>HTML</exam-name>
+      <exam-date>2015-03-10</exam-date>
+      <exam-grade>4.01</exam-grade>
+    </exam>    
+    </exams>
+    <endorsements>
+      <endorsement>
+        <author-name></author-name>
+        <author-email></author-email>
+        <date></date>
+        <text></text>
+      </endorsement>
+          </endorsements>
+  </student>     
+</students>
