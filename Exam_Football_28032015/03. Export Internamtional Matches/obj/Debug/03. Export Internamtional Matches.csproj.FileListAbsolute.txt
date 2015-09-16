@@ -1,0 +1,12 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\03. Export Internamtional Matches\bin\Debug\_03.Export_Internamtional_Matches.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\03. Export Internamtional Matches\bin\Debug\_03.Export_Internamtional_Matches.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\03. Export Internamtional Matches\bin\Debug\_03.Export_Internamtional_Matches.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\03. Export Internamtional Matches\bin\Debug\DB First.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\03. Export Internamtional Matches\bin\Debug\EntityFramework.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\03. Export Internamtional Matches\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\03. Export Internamtional Matches\bin\Debug\DB First.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\03. Export Internamtional Matches\bin\Debug\EntityFramework.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\03. Export Internamtional Matches\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\03. Export Internamtional Matches\obj\Debug\03. Export Internamtional Matches.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\03. Export Internamtional Matches\obj\Debug\_03.Export_Internamtional_Matches.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\03. Export Internamtional Matches\obj\Debug\_03.Export_Internamtional_Matches.pdb

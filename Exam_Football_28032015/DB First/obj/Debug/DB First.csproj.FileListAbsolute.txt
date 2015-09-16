@@ -1,0 +1,10 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\DB First\bin\Debug\DB First.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\DB First\bin\Debug\DB First.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\DB First\bin\Debug\DB First.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\DB First\bin\Debug\EntityFramework.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\DB First\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\DB First\bin\Debug\EntityFramework.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\DB First\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\DB First\obj\Debug\DB First.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\DB First\obj\Debug\DB First.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\DB First\obj\Debug\DB First.pdb

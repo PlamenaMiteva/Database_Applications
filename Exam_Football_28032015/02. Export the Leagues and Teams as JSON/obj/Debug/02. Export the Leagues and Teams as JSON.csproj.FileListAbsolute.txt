@@ -1,0 +1,12 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\02. Export the Leagues and Teams as JSON\bin\Debug\_02.Export_the_Leagues_and_Teams_as_JSON.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\02. Export the Leagues and Teams as JSON\obj\Debug\02. Export the Leagues and Teams as JSON.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\02. Export the Leagues and Teams as JSON\bin\Debug\_02.Export_the_Leagues_and_Teams_as_JSON.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\02. Export the Leagues and Teams as JSON\bin\Debug\_02.Export_the_Leagues_and_Teams_as_JSON.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\02. Export the Leagues and Teams as JSON\bin\Debug\DB First.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\02. Export the Leagues and Teams as JSON\bin\Debug\EntityFramework.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\02. Export the Leagues and Teams as JSON\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\02. Export the Leagues and Teams as JSON\bin\Debug\DB First.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\02. Export the Leagues and Teams as JSON\bin\Debug\EntityFramework.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\02. Export the Leagues and Teams as JSON\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\02. Export the Leagues and Teams as JSON\obj\Debug\_02.Export_the_Leagues_and_Teams_as_JSON.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\02. Export the Leagues and Teams as JSON\obj\Debug\_02.Export_the_Leagues_and_Teams_as_JSON.pdb

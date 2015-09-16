@@ -1,0 +1,10 @@
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\06. Phonebook\bin\Debug\_06.Phonebook.exe.config
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\06. Phonebook\bin\Debug\_06.Phonebook.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\06. Phonebook\bin\Debug\_06.Phonebook.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\06. Phonebook\bin\Debug\EntityFramework.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\06. Phonebook\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\06. Phonebook\bin\Debug\EntityFramework.xml
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\06. Phonebook\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\06. Phonebook\obj\Debug\06. Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\06. Phonebook\obj\Debug\_06.Phonebook.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\06. Phonebook\obj\Debug\_06.Phonebook.pdb

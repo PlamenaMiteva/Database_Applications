@@ -1,0 +1,14 @@
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\07. Import Contacts from JSON\bin\Debug\_07.Import_Contacts_from_JSON.exe.config
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\07. Import Contacts from JSON\bin\Debug\_07.Import_Contacts_from_JSON.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\07. Import Contacts from JSON\bin\Debug\_07.Import_Contacts_from_JSON.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\07. Import Contacts from JSON\bin\Debug\EntityFramework.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\07. Import Contacts from JSON\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\07. Import Contacts from JSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\07. Import Contacts from JSON\bin\Debug\_06.Phonebook.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\07. Import Contacts from JSON\bin\Debug\_06.Phonebook.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\07. Import Contacts from JSON\bin\Debug\EntityFramework.xml
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\07. Import Contacts from JSON\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\07. Import Contacts from JSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\07. Import Contacts from JSON\obj\Debug\07. Import Contacts from JSON.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\07. Import Contacts from JSON\obj\Debug\_07.Import_Contacts_from_JSON.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\07. Import Contacts from JSON\obj\Debug\_07.Import_Contacts_from_JSON.pdb

@@ -1,0 +1,12 @@
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\04.  Import Leagues and Teams from XML\bin\Debug\_04.Import_Leagues_and_Teams_from_XML.exe.config
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\04.  Import Leagues and Teams from XML\bin\Debug\_04.Import_Leagues_and_Teams_from_XML.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\04.  Import Leagues and Teams from XML\bin\Debug\_04.Import_Leagues_and_Teams_from_XML.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\04.  Import Leagues and Teams from XML\bin\Debug\DB First.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\04.  Import Leagues and Teams from XML\bin\Debug\EntityFramework.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\04.  Import Leagues and Teams from XML\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\04.  Import Leagues and Teams from XML\bin\Debug\DB First.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\04.  Import Leagues and Teams from XML\bin\Debug\EntityFramework.xml
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\04.  Import Leagues and Teams from XML\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\04.  Import Leagues and Teams from XML\obj\Debug\04.  Import Leagues and Teams from XML.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\04.  Import Leagues and Teams from XML\obj\Debug\_04.Import_Leagues_and_Teams_from_XML.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Exam_Football_28032015\04.  Import Leagues and Teams from XML\obj\Debug\_04.Import_Leagues_and_Teams_from_XML.pdb
