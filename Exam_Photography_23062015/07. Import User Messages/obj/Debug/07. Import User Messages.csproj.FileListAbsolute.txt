@@ -1,0 +1,14 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\07. Import User Messages\bin\Debug\_07.Import_User_Messages.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\07. Import User Messages\bin\Debug\_07.Import_User_Messages.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\07. Import User Messages\bin\Debug\_07.Import_User_Messages.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\07. Import User Messages\bin\Debug\EntityFramework.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\07. Import User Messages\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\07. Import User Messages\bin\Debug\Newtonsoft.Json.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\07. Import User Messages\bin\Debug\_06.Code_First_Phonebook.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\07. Import User Messages\bin\Debug\_06.Code_First_Phonebook.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\07. Import User Messages\bin\Debug\EntityFramework.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\07. Import User Messages\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\07. Import User Messages\bin\Debug\Newtonsoft.Json.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\07. Import User Messages\obj\Debug\07. Import User Messages.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\07. Import User Messages\obj\Debug\_07.Import_User_Messages.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\07. Import User Messages\obj\Debug\_07.Import_User_Messages.pdb

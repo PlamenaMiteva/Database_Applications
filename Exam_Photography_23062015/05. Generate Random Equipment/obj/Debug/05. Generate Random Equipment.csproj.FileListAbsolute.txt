@@ -1,0 +1,12 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\05. Generate Random Equipment\bin\Debug\_05.Generate_Random_Equipment.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\05. Generate Random Equipment\bin\Debug\_05.Generate_Random_Equipment.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\05. Generate Random Equipment\bin\Debug\_05.Generate_Random_Equipment.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\05. Generate Random Equipment\bin\Debug\EntityFramework.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\05. Generate Random Equipment\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\05. Generate Random Equipment\bin\Debug\_01.Database_First.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\05. Generate Random Equipment\bin\Debug\_01.Database_First.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\05. Generate Random Equipment\bin\Debug\EntityFramework.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\05. Generate Random Equipment\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\05. Generate Random Equipment\obj\Debug\05. Generate Random Equipment.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\05. Generate Random Equipment\obj\Debug\_05.Generate_Random_Equipment.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\05. Generate Random Equipment\obj\Debug\_05.Generate_Random_Equipment.pdb

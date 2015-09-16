@@ -1,0 +1,14 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\02. Export the Manufacturers and Cameras as JSON\bin\Debug\_02.Export_the_Manufacturers_and_Cameras_as_JSON.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\02. Export the Manufacturers and Cameras as JSON\obj\Debug\02. Export the Manufacturers and Cameras as JSON.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\02. Export the Manufacturers and Cameras as JSON\bin\Debug\_02.Export_the_Manufacturers_and_Cameras_as_JSON.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\02. Export the Manufacturers and Cameras as JSON\bin\Debug\_02.Export_the_Manufacturers_and_Cameras_as_JSON.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\02. Export the Manufacturers and Cameras as JSON\bin\Debug\EntityFramework.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\02. Export the Manufacturers and Cameras as JSON\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\02. Export the Manufacturers and Cameras as JSON\bin\Debug\Newtonsoft.Json.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\02. Export the Manufacturers and Cameras as JSON\bin\Debug\_01.Database_First.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\02. Export the Manufacturers and Cameras as JSON\bin\Debug\_01.Database_First.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\02. Export the Manufacturers and Cameras as JSON\bin\Debug\EntityFramework.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\02. Export the Manufacturers and Cameras as JSON\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\02. Export the Manufacturers and Cameras as JSON\bin\Debug\Newtonsoft.Json.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\02. Export the Manufacturers and Cameras as JSON\obj\Debug\_02.Export_the_Manufacturers_and_Cameras_as_JSON.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\02. Export the Manufacturers and Cameras as JSON\obj\Debug\_02.Export_the_Manufacturers_and_Cameras_as_JSON.pdb

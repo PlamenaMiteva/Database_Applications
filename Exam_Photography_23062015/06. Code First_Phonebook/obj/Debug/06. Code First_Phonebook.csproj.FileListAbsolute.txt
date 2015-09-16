@@ -1,0 +1,10 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\06. Code First_Phonebook\bin\Debug\_06.Code_First_Phonebook.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\06. Code First_Phonebook\obj\Debug\06. Code First_Phonebook.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\06. Code First_Phonebook\bin\Debug\_06.Code_First_Phonebook.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\06. Code First_Phonebook\bin\Debug\_06.Code_First_Phonebook.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\06. Code First_Phonebook\bin\Debug\EntityFramework.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\06. Code First_Phonebook\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\06. Code First_Phonebook\bin\Debug\EntityFramework.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\06. Code First_Phonebook\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\06. Code First_Phonebook\obj\Debug\_06.Code_First_Phonebook.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Exam_Photography_23062015\06. Code First_Phonebook\obj\Debug\_06.Code_First_Phonebook.pdb
