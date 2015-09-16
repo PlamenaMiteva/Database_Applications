@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users count="4">
+	<user first-name="Nicole" last-name="Harris" age="43">
+		<sold-products count="1">
+			<product name="Glipizide and Metformin Hydrochloride" price="953.6">
+				<user first-name="Benjamin" last-name="Henry" age="63">
+					<sold-products count="1">
+						<product name="Isosorbide Mononitrate" price="789.91">
+							<user first-name="" last-name="Thompson" age="46">
+								<sold-products count="3">
+									<product name="CHAMOMILLA" price="37.97">
+										<product name="NEO-POLY-BAC HYDRO" price="967.32">
+											<product name="Prednisone" price="550.72">
+												<user first-name="Doris" last-name="Cook" age="61">
+													<sold-products count="1">
+														<product name="Care One Hemorrhoidal" price="932.18" />
+													</sold-products>
+												</user>
+											</product>
+										</product>
+									</product>
+								</sold-products>
+							</user>
+						</product>
+					</sold-products>
+				</user>
+			</product>
+		</sold-products>
+	</user>
+</users>

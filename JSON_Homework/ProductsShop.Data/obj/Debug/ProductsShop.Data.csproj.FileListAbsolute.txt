@@ -1,0 +1,14 @@
+c:\users\plamena\documents\visual studio 2013\Projects\JSON_Homework\ProductsShop.Data\bin\Debug\ProductsShop.Data.dll.config
+c:\users\plamena\documents\visual studio 2013\Projects\JSON_Homework\ProductsShop.Data\bin\Debug\ProductsShop.Data.dll
+c:\users\plamena\documents\visual studio 2013\Projects\JSON_Homework\ProductsShop.Data\bin\Debug\ProductsShop.Data.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\JSON_Homework\ProductsShop.Data\bin\Debug\EntityFramework.dll
+c:\users\plamena\documents\visual studio 2013\Projects\JSON_Homework\ProductsShop.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\plamena\documents\visual studio 2013\Projects\JSON_Homework\ProductsShop.Data\bin\Debug\ProductsShop.Models.dll
+c:\users\plamena\documents\visual studio 2013\Projects\JSON_Homework\ProductsShop.Data\bin\Debug\ProductsShop.Models.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\JSON_Homework\ProductsShop.Data\bin\Debug\EntityFramework.xml
+c:\users\plamena\documents\visual studio 2013\Projects\JSON_Homework\ProductsShop.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\plamena\documents\visual studio 2013\Projects\JSON_Homework\ProductsShop.Data\obj\Debug\ProductsShop.Data.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\JSON_Homework\ProductsShop.Data\obj\Debug\ProductsShop.Data.dll
+c:\users\plamena\documents\visual studio 2013\Projects\JSON_Homework\ProductsShop.Data\obj\Debug\ProductsShop.Data.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\JSON_Homework\ProductsShop.Data\bin\Debug\Newtonsoft.Json.dll
+c:\users\plamena\documents\visual studio 2013\Projects\JSON_Homework\ProductsShop.Data\bin\Debug\Newtonsoft.Json.xml

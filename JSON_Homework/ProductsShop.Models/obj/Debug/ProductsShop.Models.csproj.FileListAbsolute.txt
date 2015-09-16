@@ -1,0 +1,7 @@
+c:\users\plamena\documents\visual studio 2013\Projects\JSON_Homework\ProductsShop.Models\bin\Debug\ProductsShop.Models.dll
+c:\users\plamena\documents\visual studio 2013\Projects\JSON_Homework\ProductsShop.Models\bin\Debug\ProductsShop.Models.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\JSON_Homework\ProductsShop.Models\obj\Debug\ProductsShop.Models.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\JSON_Homework\ProductsShop.Models\obj\Debug\ProductsShop.Models.dll
+c:\users\plamena\documents\visual studio 2013\Projects\JSON_Homework\ProductsShop.Models\obj\Debug\ProductsShop.Models.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\JSON_Homework\ProductsShop.Models\bin\Debug\Newtonsoft.Json.dll
+c:\users\plamena\documents\visual studio 2013\Projects\JSON_Homework\ProductsShop.Models\bin\Debug\Newtonsoft.Json.xml
