@@ -1,0 +1,12 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Geography\04. Import Rivers From Xml\bin\Debug\_04.Import_Rivers_From_Xml.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\Geography\04. Import Rivers From Xml\bin\Debug\_04.Import_Rivers_From_Xml.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Geography\04. Import Rivers From Xml\bin\Debug\_04.Import_Rivers_From_Xml.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Geography\04. Import Rivers From Xml\bin\Debug\EntityFramework.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Geography\04. Import Rivers From Xml\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Geography\04. Import Rivers From Xml\bin\Debug\_01.Database_First.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Geography\04. Import Rivers From Xml\bin\Debug\_01.Database_First.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Geography\04. Import Rivers From Xml\bin\Debug\EntityFramework.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Geography\04. Import Rivers From Xml\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Geography\04. Import Rivers From Xml\obj\Debug\_04.Import_Rivers_From_Xml.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Geography\04. Import Rivers From Xml\obj\Debug\_04.Import_Rivers_From_Xml.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Geography\04. Import Rivers From Xml\obj\Debug\04. Import Rivers From Xml.csprojResolveAssemblyReference.cache

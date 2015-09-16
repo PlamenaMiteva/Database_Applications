@@ -1,0 +1,12 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Geography\02. Export Rivers As JSON\bin\Debug\_02.Export_Rivers_As_JSON.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\Geography\02. Export Rivers As JSON\bin\Debug\_02.Export_Rivers_As_JSON.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Geography\02. Export Rivers As JSON\bin\Debug\_02.Export_Rivers_As_JSON.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Geography\02. Export Rivers As JSON\bin\Debug\EntityFramework.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Geography\02. Export Rivers As JSON\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Geography\02. Export Rivers As JSON\bin\Debug\_01.Database_First.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Geography\02. Export Rivers As JSON\bin\Debug\_01.Database_First.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Geography\02. Export Rivers As JSON\bin\Debug\EntityFramework.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Geography\02. Export Rivers As JSON\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Geography\02. Export Rivers As JSON\obj\Debug\02. Export Rivers As JSON.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\Geography\02. Export Rivers As JSON\obj\Debug\_02.Export_Rivers_As_JSON.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Geography\02. Export Rivers As JSON\obj\Debug\_02.Export_Rivers_As_JSON.pdb
