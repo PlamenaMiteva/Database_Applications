@@ -1,0 +1,5 @@
+C:\Users\Plamena\documents\visual studio 2013\Projects\Code First\StudentsSystemModels\bin\Debug\StudentsSystemModels.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\Code First\StudentsSystemModels\bin\Debug\StudentsSystemModels.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Code First\StudentsSystemModels\obj\Debug\StudentsSystemModels.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\documents\visual studio 2013\Projects\Code First\StudentsSystemModels\obj\Debug\StudentsSystemModels.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\Code First\StudentsSystemModels\obj\Debug\StudentsSystemModels.pdb
